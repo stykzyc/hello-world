@@ -6,3 +6,9 @@ git add
 git commit
 git log
 git show
+git checkout
+git remote add origin https://github.com/stykzyc/hello-world.git
+git push
+git pull
+
+File -->add--> Staging -->commit--> Committed
